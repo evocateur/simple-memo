@@ -2,6 +2,7 @@
   "name": "simple-memo",
   "version": "0.0.0",
   "description": "Simple memoization of function executions.",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/evocateur/simple-memo.git"
