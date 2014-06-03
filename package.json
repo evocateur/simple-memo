@@ -1,6 +1,6 @@
 {
   "name": "simple-memo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple memoization of function executions.",
   "main": "index.js",
   "scripts": {
