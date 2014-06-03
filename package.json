@@ -7,6 +7,10 @@
     "pretest": "jshint *.js",
     "test": "mocha --ui bdd --reporter spec test.js"
   },
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
   "devDependencies": {
     "chai": "^1.9.1",
     "jshint": "^2.5.1",
