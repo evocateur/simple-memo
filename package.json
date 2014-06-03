@@ -1,0 +1,20 @@
+{
+  "name": "simple-memo",
+  "version": "0.0.0",
+  "description": "Simple memoization of function executions.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evocateur/simple-memo.git"
+  },
+  "keywords": [
+    "memo",
+    "memoizer",
+    "memoization"
+  ],
+  "author": "Daniel Stockman <daniel.stockman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evocateur/simple-memo/issues"
+  },
+  "homepage": "https://github.com/evocateur/simple-memo"
+}
