@@ -4,10 +4,12 @@
   "description": "Simple memoization of function executions.",
   "main": "index.js",
   "scripts": {
+    "pretest": "jshint *.js",
     "test": "mocha --ui bdd --reporter spec test.js"
   },
   "devDependencies": {
     "chai": "^1.9.1",
+    "jshint": "^2.5.1",
     "mocha": "^1.20.0",
     "sinon": "^1.10.2",
     "sinon-chai": "^2.5.0"
